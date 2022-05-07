@@ -1,3 +1,4 @@
 #### This is the Intro Page
-- Test 1
-- Test 2
+- Read this book
+- Take this class
+- Review with Rachel

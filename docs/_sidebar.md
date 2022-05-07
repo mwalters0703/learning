@@ -1,2 +1,2 @@
 - Welcome to the Sidebar
-    - [Intro](Intro.md)
+    - [Training List](Intro.md)
